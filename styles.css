@@ -1,0 +1,35 @@
+* { 
+    margin: 0 0 0px;
+}
+
+.Header { 
+    background-color: #1f2937;
+    padding: 20px; 
+}
+
+.Headertop { 
+    display: flex;
+    justify-content: space-between;
+    color: white;
+
+}
+
+.header-logo { 
+    font-size: 24px;
+    color: #f9faf8;
+    font-weight: bold;
+
+}
+
+.links  { 
+    font-size: 18px;
+    color: #e5e7eb;
+
+}
+
+ul { 
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
