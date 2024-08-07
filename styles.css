@@ -34,6 +34,23 @@ ul {
     gap: 10px;
 }
 
+.Headerbody { 
+    display: flex;
+    justify-content: space-around;
+}
+
+.hbleft { 
+
+}
+
+.hbright { 
+
+}
+
+img {
+    max-height: 250px;
+}
+
 .title  { 
     font-size: 48px;
     font-weight: bolder;
@@ -48,8 +65,7 @@ ul {
 
 button {
     background-color: #3882f6;
-    font-size: 18px;
     border-radius: 5px;
     border-style: none;
-    padding: 4px 10px;
+    padding: 5px 11px;
 }
