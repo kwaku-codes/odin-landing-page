@@ -125,3 +125,28 @@ h2 {
     font-weight: bold;
     align-self: flex-end;
 }
+
+.section4 { 
+padding: 111px;
+}
+
+h5 { 
+    color: white;
+    font-weight: bold;
+}
+
+.call-to-action { 
+background-color: #3882f6;
+padding: 33px 55px;
+border-radius: 11px;
+display: flex;
+justify-content: space-around;
+}
+
+.action-span { 
+    color:#f9faf8;
+}
+
+.button2 { 
+    border: solid #f9faf8;
+}
