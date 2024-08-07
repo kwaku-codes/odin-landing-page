@@ -4,13 +4,15 @@
 
 .Header { 
     background-color: #1f2937;
-    padding: 20px; 
+    padding: 10px; 
 }
 
 .Headertop { 
     display: flex;
     justify-content: space-between;
     color: white;
+    margin-left: 100px;
+    margin-right: 100px;
 
 }
 
@@ -37,6 +39,8 @@ ul {
 .Headerbody { 
     display: flex;
     justify-content: space-around;
+    padding: 100px;
+    gap: 20px;
 }
 
 .hbleft { 
@@ -48,7 +52,7 @@ ul {
 }
 
 img {
-    max-height: 250px;
+    max-height: 300px;
 }
 
 .title  { 
@@ -67,5 +71,6 @@ button {
     background-color: #3882f6;
     border-radius: 5px;
     border-style: none;
-    padding: 5px 11px;
+    padding: 5px 20px;
+    color: white;
 }
