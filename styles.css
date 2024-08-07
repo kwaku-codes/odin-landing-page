@@ -152,3 +152,11 @@ justify-content: space-around;
 .button2 { 
     border: solid #f9faf8;
 }
+
+.footer { 
+    padding: 55px;
+    background-color:#1f2937; 
+    color: #f9faf8;
+    display: flex;
+    justify-content: center;
+}
