@@ -20,7 +20,7 @@
     font-size: 24px;
     color: #f9faf8;
     font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
 
 }
 
@@ -39,7 +39,7 @@ ul {
 }
 
 a {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 
 .Headerbody { 
