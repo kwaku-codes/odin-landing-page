@@ -1,5 +1,5 @@
 * { 
-    margin: 0 0 0px;
+    margin: 0 0;
 }
 
 .Header { 
@@ -82,7 +82,7 @@ button {
 }
 
 .section2 { 
-margin: 20px 50px 200px 200px;
+margin: 25px 50px 200px 200px;
 }
 
 h2 { 
@@ -96,7 +96,7 @@ h2 {
     display: flex;
     padding: 18px;
     justify-content: space-between;
-    gap: 60px;
+    gap: 20px;
 }
 
 .square { 
